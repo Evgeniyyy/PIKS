@@ -1,0 +1,20 @@
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Singleton/Singleton/bin/Debug/Singleton.exe.config
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Singleton/Singleton/obj/Debug/Singleton.csprojResolveAssemblyReference.cache
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Singleton/Singleton/bin/Debug/Singleton.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Singleton/Singleton/bin/Debug/Singleton.pdb
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Singleton/Singleton/obj/Debug/Singleton.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Singleton/Singleton/obj/Debug/Singleton.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Singleton/Singleton/bin/Debug/Singleton.exe.config
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Singleton/Singleton/bin/Debug/Singleton.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Singleton/Singleton/bin/Debug/Singleton.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Singleton/Singleton/obj/Debug/Singleton.csprojResolveAssemblyReference.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Singleton/Singleton/obj/Debug/Singleton.csproj.CoreCompileInputs.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Singleton/Singleton/obj/Debug/Singleton.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Singleton/Singleton/obj/Debug/Singleton.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Singleton/Singleton/bin/Debug/Singleton.exe.config
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Singleton/Singleton/bin/Debug/Singleton.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Singleton/Singleton/bin/Debug/Singleton.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Singleton/Singleton/obj/Debug/Singleton.csprojAssemblyReference.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Singleton/Singleton/obj/Debug/Singleton.csproj.CoreCompileInputs.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Singleton/Singleton/obj/Debug/Singleton.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Singleton/Singleton/obj/Debug/Singleton.pdb

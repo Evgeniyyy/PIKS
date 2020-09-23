@@ -1,0 +1,20 @@
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Decorator/Decorator/bin/Debug/Decorator.exe.config
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Decorator/Decorator/bin/Debug/Decorator.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Decorator/Decorator/bin/Debug/Decorator.pdb
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Decorator/Decorator/obj/Debug/Decorator.csprojResolveAssemblyReference.cache
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Decorator/Decorator/obj/Debug/Decorator.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Decorator/Decorator/obj/Debug/Decorator.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Decorator/Decorator/bin/Debug/Decorator.exe.config
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Decorator/Decorator/bin/Debug/Decorator.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Decorator/Decorator/bin/Debug/Decorator.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Decorator/Decorator/obj/Debug/Decorator.csprojResolveAssemblyReference.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Decorator/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Decorator/Decorator/obj/Debug/Decorator.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Decorator/Decorator/obj/Debug/Decorator.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Decorator/Decorator/bin/Debug/Decorator.exe.config
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Decorator/Decorator/bin/Debug/Decorator.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Decorator/Decorator/bin/Debug/Decorator.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Decorator/Decorator/obj/Debug/Decorator.csprojAssemblyReference.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Decorator/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Decorator/Decorator/obj/Debug/Decorator.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Decorator/Decorator/obj/Debug/Decorator.pdb

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F401AE55-F4EF-4D67-B5C8-0933F8C3583C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod/AlcDriver.cs">
+    <Files>
+      <File FileName="FactoryMethod/TaxiServices.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethod/TaxiTransCom.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethod/TransportCompany.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethod/TransportService.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethod/ShipTransCom.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethod/Program.cs" Line="27" Column="56" />
+      <File FileName="FactoryMethod/App.config" Line="1" Column="1" />
+      <File FileName="FactoryMethod/AlcDriverCom.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethod/AlcDriver.cs" Line="25" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethod" expanded="True">
+            <Node name="FactoryMethod" expanded="True">
+              <Node name="AlcDriver.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

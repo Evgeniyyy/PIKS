@@ -1,0 +1,29 @@
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Adapter/Adapter/bin/Debug/Adapter.exe.config
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Adapter/Adapter/bin/Debug/Adapter.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Adapter/Adapter/bin/Debug/Adapter.pdb
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Adapter/Adapter/obj/Debug/Adapter.csprojResolveAssemblyReference.cache
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Adapter/Adapter/obj/Debug/Adapter.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Adapter/Adapter/obj/Debug/Adapter.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/Задание4/Adapter/Adapter/bin/Debug/Adapter.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/Задание4/Adapter/Adapter/bin/Debug/Adapter.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/Задание4/Adapter/Adapter/obj/Debug/Adapter.csprojResolveAssemblyReference.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/Задание4/Adapter/Adapter/obj/Debug/Adapter.csproj.CoreCompileInputs.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/Задание4/Adapter/Adapter/obj/Debug/Adapter.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/Задание4/Adapter/Adapter/obj/Debug/Adapter.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Adapter/Adapter/bin/Debug/Adapter.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Adapter/Adapter/bin/Debug/Adapter.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Adapter/Adapter/obj/Debug/Adapter.csprojResolveAssemblyReference.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Adapter/Adapter/obj/Debug/Adapter.csproj.CoreCompileInputs.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Adapter/Adapter/obj/Debug/Adapter.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Adapter/Adapter/obj/Debug/Adapter.pdb
+C:/Users/1/Desktop/Проектирование ИНФОКОМ СИС/lab4/Adapter/Adapter/bin/Debug/Adapter.exe
+C:/Users/1/Desktop/Проектирование ИНФОКОМ СИС/lab4/Adapter/Adapter/bin/Debug/Adapter.pdb
+C:/Users/1/Desktop/Проектирование ИНФОКОМ СИС/lab4/Adapter/Adapter/obj/Debug/Adapter.csprojResolveAssemblyReference.cache
+C:/Users/1/Desktop/Проектирование ИНФОКОМ СИС/lab4/Adapter/Adapter/obj/Debug/Adapter.exe
+C:/Users/1/Desktop/Проектирование ИНФОКОМ СИС/lab4/Adapter/Adapter/obj/Debug/Adapter.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Adapter/Adapter/bin/Debug/Adapter.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Adapter/Adapter/bin/Debug/Adapter.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Adapter/Adapter/obj/Debug/Adapter.csprojAssemblyReference.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Adapter/Adapter/obj/Debug/Adapter.csproj.CoreCompileInputs.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Adapter/Adapter/obj/Debug/Adapter.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Adapter/Adapter/obj/Debug/Adapter.pdb

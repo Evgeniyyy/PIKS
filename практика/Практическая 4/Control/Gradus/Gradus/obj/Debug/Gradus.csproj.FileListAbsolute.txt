@@ -1,0 +1,20 @@
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Контрольные задания/Gradus/Gradus/bin/Debug/Gradus.exe.config
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Контрольные задания/Gradus/Gradus/bin/Debug/Gradus.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Контрольные задания/Gradus/Gradus/bin/Debug/Gradus.pdb
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Контрольные задания/Gradus/Gradus/obj/Debug/Gradus.csprojResolveAssemblyReference.cache
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Контрольные задания/Gradus/Gradus/obj/Debug/Gradus.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/Контрольные задания/Gradus/Gradus/obj/Debug/Gradus.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Control/Gradus/Gradus/bin/Debug/Gradus.exe.config
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Control/Gradus/Gradus/bin/Debug/Gradus.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Control/Gradus/Gradus/bin/Debug/Gradus.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Control/Gradus/Gradus/obj/Debug/Gradus.csprojResolveAssemblyReference.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Control/Gradus/Gradus/obj/Debug/Gradus.csproj.CoreCompileInputs.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Control/Gradus/Gradus/obj/Debug/Gradus.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/Control/Gradus/Gradus/obj/Debug/Gradus.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Control/Gradus/Gradus/bin/Debug/Gradus.exe.config
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Control/Gradus/Gradus/bin/Debug/Gradus.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Control/Gradus/Gradus/bin/Debug/Gradus.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Control/Gradus/Gradus/obj/Debug/Gradus.csprojAssemblyReference.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Control/Gradus/Gradus/obj/Debug/Gradus.csproj.CoreCompileInputs.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Control/Gradus/Gradus/obj/Debug/Gradus.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/Control/Gradus/Gradus/obj/Debug/Gradus.pdb

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9069FFC2-BBCE-4CF5-93C4-AC7C8DB3C123}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy/StrategySort.cs">
+    <Files>
+      <File FileName="Strategy/App.config" Line="1" Column="1" />
+      <File FileName="Strategy/BubleSort.cs" Line="13" Column="32" />
+      <File FileName="Strategy/Context.cs" Line="1" Column="1" />
+      <File FileName="Strategy/InsertionSort.cs" Line="1" Column="1" />
+      <File FileName="Strategy/Program.cs" Line="1" Column="1" />
+      <File FileName="Strategy/SelectionSort.cs" Line="1" Column="1" />
+      <File FileName="Strategy/StrategySort.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strategy" expanded="True">
+            <Node name="Strategy" expanded="True">
+              <Node name="StrategySort.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Strategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

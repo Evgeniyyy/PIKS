@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{35363A7F-DEB2-4884-A43A-5051E9269634}|Default">
+  <MonoDevelop.Ide.ItemProperties.Barber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Barber/Client.cs">
+    <Files>
+      <File FileName="Barber/Client.cs" Line="29" Column="14" />
+      <File FileName="Barber/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Barber" expanded="True">
+            <Node name="Barber" expanded="True">
+              <Node name="Client.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

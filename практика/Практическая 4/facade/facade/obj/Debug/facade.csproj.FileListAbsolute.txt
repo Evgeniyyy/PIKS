@@ -1,0 +1,20 @@
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/facade/facade/bin/Debug/facade.exe.config
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/facade/facade/obj/Debug/facade.csprojResolveAssemblyReference.cache
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/facade/facade/bin/Debug/facade.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/facade/facade/bin/Debug/facade.pdb
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/facade/facade/obj/Debug/facade.exe
+C:/Users/123/Desktop/ПроектированиеИнфокомм/Задание3/facade/facade/obj/Debug/facade.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/facade/facade/bin/Debug/facade.exe.config
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/facade/facade/bin/Debug/facade.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/facade/facade/bin/Debug/facade.pdb
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/facade/facade/obj/Debug/facade.csprojResolveAssemblyReference.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/facade/facade/obj/Debug/facade.csproj.CoreCompileInputs.cache
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/facade/facade/obj/Debug/facade.exe
+/Users/evgeniy/Desktop/ITMO/PIKS/lab4/facade/facade/obj/Debug/facade.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/facade/facade/bin/Debug/facade.exe.config
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/facade/facade/bin/Debug/facade.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/facade/facade/bin/Debug/facade.pdb
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/facade/facade/obj/Debug/facade.csprojAssemblyReference.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/facade/facade/obj/Debug/facade.csproj.CoreCompileInputs.cache
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/facade/facade/obj/Debug/facade.exe
+/Users/evgeniy/ITMO/Магистратура/Осипов/практика/Task 4/facade/facade/obj/Debug/facade.pdb

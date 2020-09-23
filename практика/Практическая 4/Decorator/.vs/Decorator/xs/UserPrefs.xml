@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{039EE0E2-9A3A-4CD1-B5F4-29C1E323E19D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Decorator/SystemSecurity.cs">
+    <Files>
+      <File FileName="Decorator/App.config" Line="1" Column="1" />
+      <File FileName="Decorator/Audi.cs" Line="1" Column="1" />
+      <File FileName="Decorator/AutoAppearance.cs" Line="17" Column="37" />
+      <File FileName="Decorator/AutoBase.cs" Line="1" Column="1" />
+      <File FileName="Decorator/DecoratorOptions.cs" Line="1" Column="1" />
+      <File FileName="Decorator/MediaNAV.cs" Line="1" Column="1" />
+      <File FileName="Decorator/Program.cs" Line="1" Column="1" />
+      <File FileName="Decorator/Renault.cs" Line="1" Column="1" />
+      <File FileName="Decorator/SystemSecurity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Decorator" expanded="True">
+            <Node name="Decorator" expanded="True">
+              <Node name="SystemSecurity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Decorator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B6697BE0-DECE-4959-8BBC-ED6BA73F6B0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/Monet.cs">
+    <Files>
+      <File FileName="Adapter/Program.cs" Line="20" Column="1" />
+      <File FileName="Adapter/IGame.cs" Line="1" Column="1" />
+      <File FileName="Adapter/Kost.cs" Line="1" Column="1" />
+      <File FileName="Adapter/Monet.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adapter" expanded="True">
+            <Node name="Adapter" expanded="True">
+              <Node name="Monet.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
